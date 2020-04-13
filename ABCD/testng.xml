@@ -6,6 +6,8 @@
       <class name="com.cubexo.ABC_April_Project.AppTest"/>
       <class name="com.cubexo.ABC_April_Project.OpenTest"/>
       <class name="com.cubexo.ABC_April_Project.CloseApplication"/>
+      <class name="com.cubexo.ABC_April_Project.ReplaceApplication"/>
+      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
